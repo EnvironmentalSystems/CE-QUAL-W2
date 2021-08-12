@@ -4,7 +4,7 @@ CE‐QUAL‐W2 (W2) is a two‐dimensional (2D), longitudinal/vertical, hydrodyn
 
 | ![CE-QUAL-W2 Model Schematic](images/CE-QUAL-W2_Model_Schematic.png) |
 |--|
-| Longitudinal view of temperature output for a riverine section,reservoir, and estuary from a CE‐QUAL‐W2 model application. |
+| Longitudinal view of temperature output for a riverine section, a reservoir, and an estuary from a CE‐QUAL‐W2 model application. |
 
 ## Applications
 
