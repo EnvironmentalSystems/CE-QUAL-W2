@@ -55,15 +55,9 @@ CE‐QUAL‐W2 (W2) is a two‐dimensional (2D), longitudinal/vertical, hydrodyn
 * Cited in more than 15 PhD dissertations, 50 Master’s theses, 100 presentations at scientific meetings, and at least 20 journal articles worldwide
 * Portland State University website reports 3 - 4 model downloads per day (about 1,500 model downloads per year) from around the world and 10 - 30 visitors to their web site per day (7,000 visitors per year).
 
-### Model Capabilities
+## CE-QUAL-W2 Model Capabilities (Version 4.5)
 
 The CE-QUAL-W2 model incorporates the following water quality considerations: Longitudinal-vertical hydrodynamics and water quality in stratified and non-stratified systems, nutrients-dissolved oxygen-organic matter interactions, fish habitat, selective withdrawal from stratified reservoir outlets, hypolimnetic aeration, multiple algae, epiphyton/periphyton, zooplankton, macrophyte, CBOD, sediment diagenesis model, and generic water quality groups, internal dynamic pipe/culvert model, and hydraulic structures (weirs, spillways) algorithms. The hydraulic structures algorithms include submerged and two-way flow over submerged hydraulic structures as well as a dynamic shading algorithm based on topographic and vegetative cover.
-
-### Model Limitations
-
-CE-QUAL-W2 Version 4.5 functions under the following general assumptions: Flows are assumed to be well mixed in lateral direction (can be used in a Quasi-3-D mode via additional model branches), and hydrostasis is assumed for the vertical momentum equation.
-
-## Version 4.5 Capabilities and Limitations
 
 CE-QUAL-W2 includes variable density as affected by temperature, salinity, Total Dissolved Solids (TDS), and Total Suspended Solids (TSS) to simulate stratified flow. There are 28 water quality constituent state variables, and any combination of constituents can be included or excluded from a simulation. The effects of salinity or total dissolved solids/salinity on density, and thus hydrodynamics, are included only when simulated in the water quality module. The water quality algorithm is modular, allowing constituents to be easily added as additional subroutines.
 
@@ -89,6 +83,10 @@ This version includes many new features and upgrades and is not file compatible 
 16. SYSTDG input files updated to csv input format.
 17. Updates to particle settling and P adsorption onto inorganic SS. A bug was fixed where dissolved oxygen controlled P adsorption to particles rather than just P adsorption to Fe.
 18. All external control files are included in an Excel master sheet for ease of writing out as csv files.
+
+## CE-QUAL-W2 Model Limitations (Version 4.5)
+
+CE-QUAL-W2 Version 4.5 functions under the following general assumptions: Flows are assumed to be well mixed in lateral direction (can be used in a Quasi-3-D mode via additional model branches), and hydrostasis is assumed for the vertical momentum equation.
 
 ## Points of Contact
 
