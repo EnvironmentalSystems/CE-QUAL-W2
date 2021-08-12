@@ -18,6 +18,19 @@ CE‐QUAL‐W2 (W2) is a two‐dimensional (2D), longitudinal/vertical, hydrodyn
 * More than 300 applications worldwide
 * Recent applications of W2 were developed for:
     * Columbia River System Operation (CRSO) Project - FY20
+        * Columbia River
+            * Grand Coulee Reservoir
+            * Bonneville Lake
+            * The Dalles Dam
+            * Chief Joseph Dam
+        * Snake River
+            * Lower Granite Dam
+            * Lower Monumental Dam
+            * Little Goose Dam
+            * Ice Harbor Dam
+            * McNary Dam
+        * Clearwater River
+            * Dworshak Dam
     * Columbia River Treaty (CRT) - FY20
     * Applegate Lake – FY14
     * Lost Creek Lake – FY13
