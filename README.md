@@ -78,11 +78,11 @@ This version includes many new features and upgrades and is not file compatible 
 11. Ability to generate river contours easily (model segment or distance along river vs time) for temperature and dissolved oxygen)
 12. The C groups dissolved organic C (DOC) and particulate organic C (POC) with both labile and refractory groups were added as an alternative to organic matter groups. The option is available to use either C or organic matter. This was done earlier by Dr. Zhonglong Zhang in an earlier version of W2.
 13. Sediment diagenesis updates. Many updates were made allowing for multiple vertical layers, simplified calculation, and much faster computation than before. Now when sediment diagenesis is turned ON, both zero order and first order sediment models are turned OFF internally. Also, the sediment diagenesis input file format has been updated and integrated into the Excel master sheet. This work was performed by Dr. Zhonglong Zhang at PSU.
-14. Removed internal minimum reaeration coefficient value and allowed model user to set a minimum value if required. For example, for waterbodies designated as ‘LAKE’ with zero wind, the model will now predict zero reaeration unless a minimum value is set. The reaeration coefficient for the surface layer is now an output in the Time Series file.
+14. Removed internal minimum reaeration coefficient value and allowed model user to set a minimum value if required. For example, for waterbodies designated as "LAKE" with zero wind, the model will now predict zero reaeration unless a minimum value is set. The reaeration coefficient for the surface layer is now an output in the Time Series file.
 15. Updates to auto-port selection
-16. SYSTDG input files updated to csv input format.
+16. SYSTDG input files updated to CSV input format.
 17. Updates to particle settling and P adsorption onto inorganic SS. A bug was fixed where dissolved oxygen controlled P adsorption to particles rather than just P adsorption to Fe.
-18. All external control files are included in an Excel master sheet for ease of writing out as csv files.
+18. All external control files are included in an Excel master sheet for ease of writing out as CSV files.
 
 ## CE-QUAL-W2 Model Limitations (Version 4.5)
 
