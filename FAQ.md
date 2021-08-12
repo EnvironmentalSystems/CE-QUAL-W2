@@ -1,6 +1,7 @@
 # Frequently Asked Questions
 
 - [How do I determine the appropriate water quality model to use?](#how-do-i-determine-the-appropriate-water-quality-model-to-use)
+    - [CE-QUAL-W2: 2D Vertically Stratified, Longitudinally Varying, Laterally Averaged, Water Quality Model](#CE-QUAL-W2: 2D Vertically Stratified, Longitudinally Varying, Laterally Averaged, Water Quality Model)
     - [HEC-ResSim: 1D Vertically Stratified, Horizontally Averaged, Water Quality Model](#hec-ressim-1d-vertically-stratified-horizontally-averaged-water-quality-model)
     - [HEC-RAS: 1D Vertically Averaged (unstratified), Longitudinally Varying, Water Quality Model](#hec-ras-1d-vertically-averaged-unstratified-longitudinally-varying-water-quality-model)
     - [HEC-RAS: 2D Vertically Averaged (unstratified), Horizontally Varying, Water Quality Model](#hec-ras-2d-vertically-averaged-unstratified-horizontally-varying-water-quality-model)
@@ -9,6 +10,7 @@
 
 Determination of the best water quality model to use for a particular reservoir, river reach, etc., depends both on the water body being modeled and the objectives of the project.
 
+### CE-QUAL-W2: 2D Vertically Stratified, Longitudinally Varying, Laterally Averaged, Water Quality Model
 From the system perspective, if one or more of the following conditions applies to the waterbody being modeled, then CE-QUAL-W2 (2D hydrodynamic and water quality model) is the recommended model.
 
 - The water body (lake, reservoir, or estuary) is stratified
