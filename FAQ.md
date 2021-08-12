@@ -1,7 +1,10 @@
 # Frequently Asked Questions
 
-- ![Frequently Asked Questions](#frequently-asked-questions)
-    - ![How do I determine the appropriate water quality model to use?](#how-do-i-determine-the-appropriate-water-quality-model-to-use)
+- [Frequently Asked Questions](#frequently-asked-questions)
+  - [How do I determine the appropriate water quality model to use?](#how-do-i-determine-the-appropriate-water-quality-model-to-use)
+    - [HEC-ResSim: 1D Vertically Stratified, Horizontally Averaged, Water Quality Model](#hec-ressim-1d-vertically-stratified-horizontally-averaged-water-quality-model)
+    - [HEC-RAS: 1D Vertically Averaged (unstratified), Longitudinally Varying, Water Quality Model](#hec-ras-1d-vertically-averaged-unstratified-longitudinally-varying-water-quality-model)
+    - [HEC-RAS: 2D Vertically Averaged (unstratified), Horizontally Varying, Water Quality Model](#hec-ras-2d-vertically-averaged-unstratified-horizontally-varying-water-quality-model)
 
 ## How do I determine the appropriate water quality model to use?
 
