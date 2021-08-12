@@ -1,4 +1,4 @@
-# CE-QUAL-W2 Model Applications
+# CE-QUAL-W2 Model Application History
 
 ## Applications by Country
 
@@ -183,7 +183,7 @@
 | 132       | Inanda Dam                           |                | South Africa   | :white_check_mark:                     | :white_check_mark:                    | 2               |
 | 133       | Iron Gates                           |                | Romania        |                       |                      |                 |
 | 134       | Ita                                  |                | Brazil         |                       |                      |                 |
-| 135       | Ita�ba Dam                           |                | Brazil         |                       |                      |                 |
+| 135       | Itaúba Dam                           |                | Brazil         |                       |                      |                 |
 | 136       | J. Percy Priest                      | Tennessee      | United States  | :white_check_mark:                     | :white_check_mark:                    | 5               |
 | 137       | J. Strom Thurmond                    | South Carolina | United States  | :white_check_mark:                     | :white_check_mark:                    | 5               |
 | 138       | J.B. Converse                        | Alabma         | United States  |                       |                      |                 |
@@ -235,7 +235,7 @@
 | 184       | Monroe                               | Indiana        | United States  | :white_check_mark:                     | :white_check_mark:                    | 4               |
 | 185       | Moses                                | Washington     | United States  |                       |                      |                 |
 | 186       | Mountain Island                      | North Carolina | United States  | :white_check_mark:                     |                      | 1               |
-| 187       | Mu�a Reservoir                       |                | Columbia       |                       |                      |                 |
+| 187       | Muña Reservoir                       |                | Columbia       |                       |                      |                 |
 | 188       | Muscoot                              | New York       | United States  | :white_check_mark:                     |                      | 1               |
 | 189       | Nahoon Dam                           |                | South Africa   | :white_check_mark:                     | :white_check_mark:                    | 2               |
 | 190       | Nahr Ibrahim Janneh dam              |                | Lebanon        |                       |                      |                 |
@@ -275,7 +275,7 @@
 | 224       | Porsuk                               |                | Turkey         |                       |                      |                 |
 | 225       | Powell                               | Utah           | United States  | :white_check_mark:                     |                      | 2               |
 | 226       | Pretty Boy Reservoir                 | Maryland       | United States  | :white_check_mark:                     | :white_check_mark:                    | 2               |
-| 227       | Priest Rapids Reservoir�             | Washington     | United States  |                       |                      |                 |
+| 227       | Priest Rapids Reservoir              | Washington     | United States  |                       |                      |                 |
 | 228       | Pueblo Reservoir                     | Colorado       | United States  |                       |                      |                 |
 | 229       | Quabbin                              | Massachusetts  | United States  | :white_check_mark:                     | :white_check_mark:                    | 1               |
 | 230       | Red Fleet Reservoir                  | Utah           | United States  |                       |                      |                 |
@@ -335,7 +335,7 @@
 | 284       | Tims Ford                            | Tennessee      | United States  |                       |                      |                 |
 | 285       | Toledo Bend                          | Texas          | United States  | :white_check_mark:                     | :white_check_mark:                    | 1               |
 | 286       | Tolt Reservoir                       | Washington     | United States  | :white_check_mark:                     |                      | 1               |
-| 287       | Torre�o Reservoir (Douro River)      |                | Portugal       |                       |                      |                 |
+| 287       | Torreão Reservoir (Douro River)      |                | Portugal       |                       |                      |                 |
 | 288       | Travis                               | Texas          | United States  | :white_check_mark:                     | :white_check_mark:                    | 1               |
 | 289       | Triadelphia                          | Virginia       | United States  |                       |                      |                 |
 | 290       | Tseng-Wen Reservoir                  |                | Taiwan         |                       |                      |                 |
@@ -438,7 +438,7 @@
 | 63        | Lake Mead                                                                  | Nevada         | United States     |                       |                      |                 |
 | 64        | Lake Michigan                                                              | Michigan       | United States     |                       |                      |                 |
 | 65        | Lake Michigan                                                              |                | Canada            |                       |                      |                 |
-| 66        | Lake Mj�sa                                                                 |                | Norway            |                       |                      |                 |
+| 66        | Lake Mjøsa                                                                 |                | Norway            |                       |                      |                 |
 | 67        | Lake Murray                                                                |                | United Kingdom    |                       |                      |                 |
 | 68        | Lake Nyasa                                                                 |                | Russia            |                       |                      |                 |
 | 69        | Lake O                                                                     |                | Jamaica           |                       |                      |                 |
@@ -447,7 +447,7 @@
 | 72        | Lake Ohrid, river Drin                                                     |                | Albania           |                       |                      |                 |
 | 73        | Lake Olathe                                                                | Kansas         | United States     |                       |                      |                 |
 | 74        | Lake Oswego Watersheds                                                     | Oregon         | United States     |                       |                      |                 |
-| 75        | Lake Paldang�                                                              |                | Korea             |                       |                      |                 |
+| 75        | Lake Paldang                                                              |                | Korea             |                       |                      |                 |
 | 76        | Lake Pontchartrain                                                         | Louisiana      | United States     |                       |                      |                 |
 | 77        | Lake Prespa                                                                |                | Greece            |                       |                      |                 |
 | 78        | Lake Rathbun                                                               | Iowa           | United States     |                       |                      |                 |
@@ -476,7 +476,7 @@
 | 101       | Millerton Lake                                                             | California     | United States     |                       |                      |                 |
 | 102       | Missibi lake                                                               |                | Anguilla          |                       |                      |                 |
 | 103       | Odell lake                                                                 | Oregon         | United States     |                       |                      |                 |
-| 104       | �merli Lake                                                                |                | Turkey            |                       |                      |                 |
+| 104       | Ömerli Lake                                                                |                | Turkey            |                       |                      |                 |
 | 105       | Onondaga Lake                                                              | New York       | United States     |                       |                      |                 |
 | 106       | Ontario                                                                    |                | Canada            |                       |                      |                 |
 | 107       | Oologah Lake                                                               | Oklahoma       | United States     |                       |                      |                 |
@@ -570,7 +570,7 @@
 | 55        | Puyallup River Estuary    | Washington     | United States  | :white_check_mark:                     |                      | 1               |
 | 56        | Raritan                   | New Jersey     | United States  | :white_check_mark:                     |                      | 1               |
 | 57        | Reloncavi estuary         |                | Chile          |                       |                      |                 |
-| 58        | Sagua�u Lagoon            |                | Italy          |                       |                      |                 |
+| 58        | Saguaçu Lagoon            |                | Italy          |                       |                      |                 |
 | 59        | Sampit                    | North Carolina | United States  | :white_check_mark:                     | :white_check_mark:                    | 2               |
 | 60        | San Gabriel River         | California     | United States  | :white_check_mark:                     | :white_check_mark:                    | 2               |
 | 61        | San Juan estuary          |                | Puerto Rico    |                       |                      |                 |
@@ -611,7 +611,7 @@
 | 9         | Athabasca River                                                            |                | Canada             |                       |                      |                 |
 | 10        | Bagmati river                                                              |                | Nepal              |                       |                      |                 |
 | 11        | Barato River                                                               |                | Japan              |                       |                      |                 |
-| 12        | Battle River�                                                              |                | Canada             |                       |                      |                 |
+| 12        | Battle River                                                              |                | Canada             |                       |                      |                 |
 | 13        | Bedhog river                                                               |                | Indonesia          |                       |                      |                 |
 | 14        | Beles River                                                                |                | Ethiopia           |                       |                      |                 |
 | 15        | Berg River Dam                                                             |                | South Africa       |                       |                      |                 |
@@ -706,7 +706,7 @@
 | 104       | Khoramabad river                                                           |                | Iran               |                       |                      |                 |
 | 105       | Kinnickinnic                                                               | Wisconsin      | United States      |                       |                      |                 |
 | 106       | Kishon                                                                     |                | Israel             |                       |                      |                 |
-| 107       | Klamath River�                                                             | California     | United States      |                       |                      |                 |
+| 107       | Klamath River                                                              | California     | United States      |                       |                      |                 |
 | 108       | Klamath River                                                              | Oregon         | United States      | :white_check_mark:                     | :white_check_mark:                    | 2               |
 | 109       | Kuparuk River                                                              | Arkansas       | United States      |                       |                      |                 |
 | 110       | La Playa                                                                   |                | Columbia           |                       |                      |                 |
@@ -740,7 +740,7 @@
 | 138       | Mokau River                                                                |                | New Zealand        |                       |                      |                 |
 | 139       | Mondego River                                                              |                | Portugal           |                       |                      |                 |
 | 140       | Moravica River                                                             |                | Serbia Montenegro  |                       |                      |                 |
-| 141       | Nahrein River�                                                             |                | Iran               |                       |                      |                 |
+| 141       | Nahrein River                                                              |                | Iran               |                       |                      |                 |
 | 142       | Nakdong River                                                              |                | Korea              |                       |                      |                 |
 | 143       | Nam River                                                                  |                | Korea              |                       |                      |                 |
 | 144       | Nanaimo River                                                              |                | Canada             |                       |                      |                 |
@@ -781,13 +781,13 @@
 | 179       | Rhine                                                                      |                | Germany            |                       |                      |                 |
 | 180       | Ria de Aveiro                                                              |                | Portugal           |                       |                      |                 |
 | 181       | Rideau River                                                               |                | Canada             |                       |                      |                 |
-| 182       | Rio Ca�                                                                    |                | Brazil             |                       |                      |                 |
+| 182       | Rio Caí                                                                    |                | Brazil             |                       |                      |                 |
 | 183       | Rio Chama                                                                  | New Mexico     | United States      |                       |                      |                 |
 | 184       | Rio Cubatao                                                                |                | Brazil             |                       |                      |                 |
 | 185       | Rio das Antas                                                              |                | Brazil             |                       |                      |                 |
 | 186       | Rio de la Plata                                                            |                | Argentina          |                       |                      |                 |
-| 187       | Rio Grand                                                                  | New Mexico     | United States      |                       |                      |                 |
-| 188       | R�o Guarico                                                                |                | Venezuela          |                       |                      |                 |
+| 187       | Rio Grande                                                                 | New Mexico     | United States      |                       |                      |                 |
+| 188       | Río Guarico                                                                |                | Venezuela          |                       |                      |                 |
 | 189       | Rio Hondo river                                                            | California     | United States      |                       |                      |                 |
 | 190       | Rio Iguacu                                                                 |                | Brazil             |                       |                      |                 |
 | 191       | Rio Madeira                                                                |                | Brazil             |                       |                      |                 |
@@ -848,10 +848,10 @@
 | 246       | Teusaca River                                                              |                | Columbia           |                       |                      |                 |
 | 247       | Thames                                                                     |                | United Kingdom     |                       |                      |                 |
 | 248       | The Ping River                                                             |                | Thailand           |                       |                      |                 |
-| 249       | Three Gorge Area of the Yangtze River�                                     |                | China              |                       |                      |                 |
+| 249       | Three Gorge Area of the Yangtze River                                      |                | China              |                       |                      |                 |
 | 250       | Tigris River                                                               |                | Iraq               |                       |                      |                 |
 | 251       | Tone River                                                                 | Colorado       | United States      |                       |                      |                 |
-| 252       | Torre�o Reservoir (Douro River)                                            |                | Portugal           |                       |                      |                 |
+| 252       | Torreão Reservoir (Douro River)                           |                | Portugal           |                       |                      |                 |
 | 253       | Trancao                                                                    |                | Portugal           |                       |                      |                 |
 | 254       | Trinity                                                                    | Texas          | United States      |                       |                      |                 |
 | 255       | Trinity river                                                              | California     | United States      |                       |                      |                 |
@@ -917,7 +917,7 @@
 | 10        | Antas                             |                | Brazil             |                       |                      |                 |
 | 11        | Apalachicola                      | Florida        | USA                |                       |                      |                 |
 | 12        | Ardak                             |                | Iran               |                       |                      |                 |
-| 13        | Arroio Dem�trio                   |                | Brazil             |                       |                      |                 |
+| 13        | Arroio Demétrio                   |                | Brazil             |                       |                      |                 |
 | 14        | Asahan                            |                | Israel             |                       |                      |                 |
 | 15        | Atrato                            |                | Columbia           |                       |                      |                 |
 | 16        | Bahia de Jobos                    |                | Puerto Rico        |                       |                      |                 |
@@ -930,7 +930,7 @@
 | 23        | Bergum (NL)                       |                | Belgium            |                       |                      |                 |
 | 24        | Bhavani                           |                | India              |                       |                      |                 |
 | 25        | Bisagno                           |                | Italy              |                       |                      |                 |
-| 26        | Bogot�                            |                | Columbia           |                       |                      |                 |
+| 26        | Bogotá                            |                | Columbia           |                       |                      |                 |
 | 27        | Bohai                             |                | China              |                       |                      |                 |
 | 28        | Bolsena                           |                | Italy              |                       |                      |                 |
 | 29        | Boryeong                          |                | Korea              |                       |                      |                 |
@@ -965,7 +965,7 @@
 | 58        | Corbara                           |                | Italy              |                       |                      |                 |
 | 59        | Corgo                             |                | Portugal           |                       |                      |                 |
 | 60        | Crane Strand Drain                | Florida        | USA                |                       |                      |                 |
-| 61        | Cubat�o, SP                       |                | Brazil             |                       |                      |                 |
+| 61        | Cubatão, SP                       |                | Brazil             |                       |                      |                 |
 | 62        | Dalyan                            |                | Turkey             |                       |                      |                 |
 | 63        | Darreh roud                       |                | Iran               |                       |                      |                 |
 | 64        | David Gade                        | Oklahoma       | USA                |                       |                      |                 |
@@ -980,10 +980,10 @@
 | 73        | Edo                               |                | Japan              |                       |                      |                 |
 | 74        | Ekaty                             |                | Canada             |                       |                      |                 |
 | 75        | Eke                               |                | Japan              |                       |                      |                 |
-| 76        | El Mu�a                           |                | Columbia           |                       |                      |                 |
+| 76        | El Muña                           |                | Columbia           |                       |                      |                 |
 | 77        | Elephant Butte                    | Utah           | USA                |                       |                      |                 |
 | 78        | Elster                            |                | Germany            |                       |                      |                 |
-| 79        | Embalse R�o Tercero. C�rdoba      |                | Argentina          |                       |                      |                 |
+| 79        | Embalse Río Tercero - Córdoba      |                | Argentina          |                       |                      |                 |
 | 80        | Ensayo                            |                | Columbia           |                       |                      |                 |
 | 81        | Everglades                        | Florida        | USA                |                       |                      |                 |
 | 82        | Ewuana                            | Oregon         | USA                |                       |                      |                 |
@@ -993,12 +993,12 @@
 | 86        | Gomti                             |                | India              |                       |                      |                 |
 | 87        | Green Peter                       | Washington     | USA                |                       |                      |                 |
 | 88        | Guadiana                          |                | Portugal           |                       |                      |                 |
-| 89        | Gua�ba                            |                | Brazil             |                       |                      |                 |
+| 89        | Guaíba                            |                | Brazil             |                       |                      |                 |
 | 90        | Guchun                            |                | Korea              |                       |                      |                 |
-| 91        | Gulf of kachchh                   |                | India              |                       |                      |                 |
+| 91        | Gulf of Kachchh (aka Gulf of Kutch) |              | India              |                       |                      |                 |
 | 92        | Gurm                              |                | Korea              |                       |                      |                 |
 | 93        | Halil                             |                | Iran               |                       |                      |                 |
-| 94        | Hamedan�                          |                | Iran               |                       |                      |                 |
+| 94        | Hamedan                           |                | Iran               |                       |                      |                 |
 | 95        | Harsha                            | Kentucky       | USA                |                       |                      |                 |
 | 96        | Hausmann                          | California     | USA                |                       |                      |                 |
 | 97        | Hkazar                            |                | Iran               |                       |                      |                 |
@@ -1055,7 +1055,7 @@
 | 148       | Loire                             |                | France             |                       |                      |                 |
 | 149       | Lough Conn                        |                | Ireland            |                       |                      |                 |
 | 150       | Lower Minnesota                   | Minnesota      | USA                |                       |                      |                 |
-| 151       | Luis Eduardo Magalh�es            |                | Brazil             |                       |                      |                 |
+| 151       | Luis Eduardo Magalhães            |                | Brazil             |                       |                      |                 |
 | 152       | Lumtakong                         |                | Thailand           |                       |                      |                 |
 | 153       | Lytham                            |                | United Kingdom     |                       |                      |                 |
 | 154       | Machadinho                        |                | Brazil             |                       |                      |                 |
@@ -1069,15 +1069,15 @@
 | 162       | Maninjau                          |                | Indonesia          |                       |                      |                 |
 | 163       | Manzala                           |                | Egypt              |                       |                      |                 |
 | 164       | Mapocho                           |                | Chile              |                       |                      |                 |
-| 165       | Maranh�o                          |                | Portugal           |                       |                      |                 |
+| 165       | Maranhão                          |                | Portugal           |                       |                      |                 |
 | 166       | Marcotti                          |                | Italy              |                       |                      |                 |
 | 167       | Maumelle                          | North Carolina | USA                |                       |                      |                 |
 | 168       | Melen                             |                | Turkey             |                       |                      |                 |
 | 169       | Montargil                         |                | Portugal           |                       |                      |                 |
-| 170       | Mouta , Amman etc�                |                | Jordan             |                       |                      |                 |
+| 170       | Mouta, Amman, etc.                |                | Jordan             |                       |                      |                 |
 | 171       | Mundaring                         |                | Australia          |                       |                      |                 |
 | 172       | Musi                              |                | Indonesia          |                       |                      |                 |
-| 173       | musimcheon                        |                | Korea              |                       |                      |                 |
+| 173       | Musimcheon                        |                | Korea              |                       |                      |                 |
 | 174       | Naardermeer                       |                | Netherlands        |                       |                      |                 |
 | 175       | Nam phong                         |                | Thailand           |                       |                      |                 |
 | 176       | Namkang                           |                | Korea              |                       |                      |                 |
@@ -1092,7 +1092,7 @@
 | 185       | Nong Han                          |                | Thailand           |                       |                      |                 |
 | 186       | Noorabad                          |                | Iran               |                       |                      |                 |
 | 187       | Noyyal                            |                | India              |                       |                      |                 |
-| 188       | Nueces�                           | Texas          | USA                |                       |                      |                 |
+| 188       | Nueces                            | Texas          | USA                |                       |                      |                 |
 | 189       | Ob, Tom                           |                | Russia             |                       |                      |                 |
 | 190       | Oconee                            | Geogria        | USA                |                       |                      |                 |
 | 191       | Ogallala                          | Nebraska       | USA                |                       |                      |                 |
@@ -1106,8 +1106,8 @@
 | 199       | Palic                             |                | Serbia Montenegro  |                       |                      |                 |
 | 200       | Pampanga                          |                | Pitcairn Island    |                       |                      |                 |
 | 201       | Pangkal Balam, Sumatera           |                | Indonesia          |                       |                      |                 |
-| 202       | Paran�                            |                | Argentina          |                       |                      |                 |
-| 203       | Passa�na                          |                | Brazil             |                       |                      |                 |
+| 202       | Paraná                            |                | Argentina          |                       |                      |                 |
+| 203       | Passaúna                          |                | Brazil             |                       |                      |                 |
 | 204       | Patuxent                          | Maryland       | USA                |                       |                      |                 |
 | 205       | Patzcuaro                         |                | Mexico             |                       |                      |                 |
 | 206       | Petchaburi                        |                | Thailand           |                       |                      |                 |
@@ -1117,7 +1117,7 @@
 | 210       | Piriri do Sul                     |                | Brazil             |                       |                      |                 |
 | 211       | Plett                             |                | Austria            |                       |                      |                 |
 | 212       | Polrud                            |                | Iran               |                       |                      |                 |
-| 213       | Pond Gori�ica                     |                | Slovenia           |                       |                      |                 |
+| 213       | Pond Gorièica                     |                | Slovenia           |                       |                      |                 |
 | 214       | Porce II                          |                | Columbia           |                       |                      |                 |
 | 215       | Porce III                         |                | Columbia           |                       |                      |                 |
 | 216       | Porce III                         |                | Congo              |                       |                      |                 |
@@ -1142,7 +1142,7 @@
 | 235       | Saemangeum                        |                | Korea              |                       |                      |                 |
 | 236       | Saginaw                           | Michigan       | USA                |                       |                      |                 |
 | 237       | Saguling                          |                | Indonesia          |                       |                      |                 |
-| 238       | S�o Bento                         |                | Brazil             |                       |                      |                 |
+| 238       | São Bento                         |                | Brazil             |                       |                      |                 |
 | 239       | Satluj                            |                | India              |                       |                      |                 |
 | 240       | Seine-Northern Europe canal       |                | France             |                       |                      |                 |
 | 241       | Sg. Langat                        |                | Malaysia           |                       |                      |                 |
@@ -1191,7 +1191,7 @@
 | 284       | Viotikos Kifissos                 |                | Greece             |                       |                      |                 |
 | 285       | Wateree                           | Tennessee      | USA                |                       |                      |                 |
 | 286       | Weeki Wachi                       | Florida        | USA                |                       |                      |                 |
-| 287       | Wei�e Elster                      |                | Germany            |                       |                      |                 |
+| 287       | Weiße Elster                      |                | Germany            |                       |                      |                 |
 | 288       | Wha Chun                          |                | Korea              |                       |                      |                 |
 | 289       | Wisconsin                         | Wisconsin      | USA                |                       |                      |                 |
 | 290       | Xinkai                            |                | China              |                       |                      |                 |
