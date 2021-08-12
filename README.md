@@ -1,22 +1,22 @@
 # CE-QUAL-W2
 
-CE‐QUAL‐W2 (W2) is a two‐dimensional (2D), longitudinal/vertical, hydrodynamic and water quality (WQ) model. Since the model assumes lateral homogeneity, it is best suited for relatively long and narrow waterbodies exhibiting longitudinal and vertical water quality gradients. The model has been applied to rivers, lakes, reservoirs, estuaries and combinations thereof.  
+CE‐QUAL‐W2 (W2) is a two‐dimensional (2D), longitudinal/vertical, hydrodynamic water quality (WQ) model. Because the model assumes lateral homogeneity, it is best suited for relatively long and narrow waterbodies exhibiting longitudinal and vertical water quality gradients. The model has been applied to rivers, lakes, reservoirs, estuaries and combinations thereof.  
 
 | ![CE-QUAL-W2 Model Schematic](images/CE-QUAL-W2_Model_Schematic.png) |
 |--|
-| Longitudinal view of temperature output for a riverine section, a reservoir, and an estuary from a CE‐QUAL‐W2 model application. |
+| Longitudinal view of temperature output for a riverine section, reservoir, and estuary, from a CE‐QUAL‐W2 model application. |
 
 ## Applications
 
-* Selected as the reservoir WQ model of choice throughout the U.S. and many other countries
-* Selected as the 2-D, longitudinal/vertical hydrodynamic and water quality model of choice for:
-    * USACE
+* The reservoir WQ model of choice throughout the U.S. and many other countries
+* The 2-D, longitudinal/vertical hydrodynamic and water quality model of choice for the following agencies:
+    * U.S. Army Corps of Engineers (USACE)
     * U.S. Geological Survey (USGS)
     * U.S. Department of the Interior, Bureau of Reclamation (USBR)
     * U.S. Environmental Protection Agency (U.S. EPA)
     * Tennessee Valley Authority (TVA)
 * More than 300 applications worldwide
-* Recent applications of W2 were developed for:
+* Recent applications of W2 were developed for the following projects:
     * Columbia River System Operation (CRSO) Project - FY20
         * Columbia River
             * Grand Coulee Reservoir
@@ -39,8 +39,8 @@ CE‐QUAL‐W2 (W2) is a two‐dimensional (2D), longitudinal/vertical, hydrodyn
     * Cougar Reservoir ‐ FY12
     * Clarion Reservoir FY09
     * Minnesota River ‐ FY08
-* Cited in more than 15 PhD dissertations, 50 Master’s theses, more than 100 presentations at scientific meetings by numerous researchers, and in more than 20 journal articles by various researchers worldwide
-* Portland State University reports that there are 3 - 4 model downloads per day (about 1,500 model downloads per year) from around the world and about 10 - 30 visitors to their web site per day (7,000 visitors per year).
+* Cited in more than 15 PhD dissertations, 50 Master’s theses, and 100 presentations at scientific meetings, and in more than 20 journal articles worldwide
+* Portland State University reports 3 - 4 model downloads per day (about 1,500 model downloads per year) from around the world and 10 - 30 visitors to their web site per day (7,000 visitors per year).
 
 ## Version 4.5 Capabilities and Limitations
 
