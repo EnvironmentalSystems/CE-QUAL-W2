@@ -3,7 +3,7 @@
 ## Applications by Country
 
 | Country                  | Applications | Country        | Applications | Country              | Applications |
-|--------------------------|--------------|----------------|--------------|----------------------|--------------|
+|--------------------------|--------------|----------------|--------------|----------------------|:------------:|
 | Afganistan               | 28           | Costa_Rica     | 2            | Pakistan             | 2            |
 | Albania                  | 11           | Cyprus         | 3            | Panama               | 1            |
 | Algeria                  | 9            | Czech_Republic | 17           | Phillipines          | 5            |
@@ -48,7 +48,7 @@
 ## Reservoir Applications
 
 | Waterbody | Name                                 | Location       | Country        | Temperature, Salinity | Algae, Nutrients, DO | Number of Years |
-|-----------|--------------------------------------|----------------|----------------|-----------------------|----------------------|-----------------|
+|--|--|--|--|:--:|:--:|:--:|
 | 1         | 4th Creek and Tarheel Reservoirs     | Oregon         | United States  |                       |                      |                 |
 | 2         | Allatoona                            | Georgia        | United States  | :white_check_mark:                     | :white_check_mark:                    | 4               |
 | 3         | Allegheny Reservoir                  | Pennsylavia    | United States  |                       |                      |                 |
@@ -372,7 +372,7 @@
 ## Lake Applications
 
 | Waterbody | Name                                                                       | Location       | Country           | Temperature, Salinity | Algae, Nutrients, DO | Number of Years |
-|-----------|----------------------------------------------------------------------------|----------------|-------------------|-----------------------|----------------------|-----------------|
+|--|--|--|--|:--:|:--:|:--:|
 | 1         | Beaver Lake                                                                | Arkansas       | United States     |                       |                      |                 |
 | 2         | Berkeley Pit Lake                                                          | Colorado       | United States     |                       |                      |                 |
 | 3         | Caddy Lake                                                                 |                | Canada            |                       |                      |                 |
@@ -512,7 +512,7 @@
 ## Estuary Applications
 
 | Waterbody | Name                      | Location       | Country        | Temperature, Salinity | Algae, Nutrients, DO | Number of Years |
-|-----------|---------------------------|----------------|----------------|-----------------------|----------------------|-----------------|
+|--|--|--|--|:--:|:--:|:--:|
 | 1         | Ago bay                   |                | Japan          |                       |                      |                 |
 | 2         | Akaroa Harbor             |                | Australia      | :white_check_mark:                     |                      | 1               |
 | 3         | Anil River Estuary        |                | Brazil         |                       |                      |                 |
@@ -599,7 +599,7 @@
 ## River Applications
 
 | Waterbody | Name                                                                       | Location       | Country            | Temperature, Salinity | Algae, Nutrients, DO | Number of Years |
-|-----------|----------------------------------------------------------------------------|----------------|--------------------|-----------------------|----------------------|-----------------|
+|--|--|--|--|:--:|:--:|:--:|
 | 1         | Ahtanum Creek                                                              | Washington     | United States      |                       |                      |                 |
 | 2         | Alafia                                                                     | Florida        | United States      |                       |                      |                 |
 | 3         | Alafia River                                                               | Florida        | United States      |                       |                      |                 |
@@ -889,7 +889,7 @@
 ## Pit Lake Applications
 
 | Waterbody | Name               | Location | Country       | Temperature, Salinity | Algae, Nutrients, DO | Number of Years |
-|-----------|--------------------|----------|---------------|-----------------------|----------------------|-----------------|
+|--|--|--|--|:--:|:--:|:--:|
 | 1         | AJ Mines           | Alaska   | United States | :white_check_mark:                     | :white_check_mark:                    | 1               |
 | 2         | Jupiter Canal      |          |               | :white_check_mark:                     | :white_check_mark:                    | 1               |
 | 3         | Pipeline Pit       |          |               | :white_check_mark:                     | :white_check_mark:                    | 1               |
@@ -904,7 +904,7 @@
 ## Lake or River Applications
 
 | Waterbody | Name                              | Location       | Country            | Temperature, Salinity | Algae, Nutrients, DO | Number of Years |
-|-----------|-----------------------------------|----------------|--------------------|-----------------------|----------------------|-----------------|
+|--|--|--|--|:--:|:--:|:--:|
 | 1         | Abberton                          |                | United Kingdom     |                       |                      |                 |
 | 2         | Adafe                             |                | Columbia           |                       |                      |                 |
 | 3         | Adirondack                        | New York       | USA                |                       |                      |                 |

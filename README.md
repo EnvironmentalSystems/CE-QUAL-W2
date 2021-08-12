@@ -1,6 +1,6 @@
 # CE-QUAL-W2
 
-CE‐QUAL‐W2 (W2) is a two‐dimensional (2D), longitudinal/vertical, hydrodynamic water quality (WQ) model. Because the model assumes lateral homogeneity, it is especially suited for relatively long and narrow waterbodies exhibiting longitudinal and vertical water quality gradients. The model has been applied to rivers, lakes, reservoirs, estuaries and combinations thereof.  
+CE‐QUAL‐W2 (W2) is a two‐dimensional (2D), longitudinal/vertical, hydrodynamics and water quality model. Because the model assumes lateral homogeneity, it is especially suited for relatively long and narrow waterbodies exhibiting longitudinal and vertical water quality gradients. The model has been applied to rivers, lakes, reservoirs, estuaries and combinations thereof.  
 
 | ![CE-QUAL-W2 Model Schematic](images/CE-QUAL-W2_Model_Schematic.png) |
 |--|
